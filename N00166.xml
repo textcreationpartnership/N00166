@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000225_0000_0FA36B59E84130E8"/>
-            <pb facs="tcp:000225_0001_0FA36B54FB375128"/>
+            <pb facs="unknown:000225_0000_0FA36B59E84130E8"/>
+            <pb facs="unknown:000225_0001_0FA36B54FB375128"/>
             <p>
                <hi>New Englands Crisis</hi> Or a Brief Narrative, Of <hi>NEW-ENGLANDS</hi> Lamentable Estate at present, compar'd with the for<g ref="char:EOLhyphen"/>mer (but few) years of Prosperity.</p>
             <p>Occasioned by many unheard of <hi>Cruel<g ref="char:EOLunhyphen"/>tyes</hi> practised upon the <hi>Persons</hi> and <hi>Estates</hi> of its united <hi>Colonyes,</hi> without respect of <hi>Sex, Age</hi> or <hi>Quality</hi> of Persons, by the Barbarous <hi>Heathen</hi> thereof.</p>
@@ -125,13 +125,13 @@
             <p>BOSTON, Printed and sold by <hi>John Foster,</hi> over against the Sign of the <hi>Dove.</hi> 1676.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000225_0002_0FA36B55C501CCA0"/>
+            <pb facs="unknown:000225_0002_0FA36B55C501CCA0"/>
             <head>TO THE READER.</head>
             <opener>
                <salute>Courteous Reader,</salute>
             </opener>
             <p>I <hi>never thought this</hi> Babe <hi>of my weak</hi> Phantasie <hi>worthy of an</hi> Imprima<g ref="char:EOLhyphen"/>tur; <hi>but being an</hi> Abortive, <hi>it was beg'd in these perplexing Times to be cherished by the</hi> Charity <hi>of others. If its</hi> Li<g ref="char:EOLhyphen"/>neaments <hi>please not the</hi> Rea<g ref="char:EOLhyphen"/>der
-<pb facs="tcp:000225_0003_0FA36B56126D6458"/>
+<pb facs="unknown:000225_0003_0FA36B56126D6458"/>
                <hi>better than the</hi> Writer, <hi>I shall be glad to see it</hi> prest <hi>to death: but if it displease not many and satisfie any, its to me a glorious Reward, who am more willing than able to any Service to my Countrey and Friend,</hi>
             </p>
             <closer>
@@ -141,7 +141,7 @@
       </front>
       <body>
          <div type="poems">
-            <pb facs="tcp:000225_0004_0FA36B56C8E84600"/>
+            <pb facs="unknown:000225_0004_0FA36B56C8E84600"/>
             <head>New Englands Crisis</head>
             <div type="prologue">
                <head>THE PROLOGUE.</head>
@@ -159,7 +159,7 @@
                <l>When Flesh was food, &amp; hairy skins made coats,</l>
                <l>And men as wel as birds had chirping Notes.</l>
                <l>
-                  <pb n="6" facs="tcp:000225_0005_0FA36B57879EA348"/>
+                  <pb n="6" facs="unknown:000225_0005_0FA36B57879EA348"/>
 When Cimnels were accounted noble bloud</l>
                <l>Among the tribes of common herbage food.</l>
                <l>Of <hi>Ceres</hi> bounty form'd was many a knack</l>
@@ -191,7 +191,7 @@ When Cimnels were accounted noble bloud</l>
                <l>For other fare than <hi>Jonakin and Mush.</hi>
                </l>
                <l>
-                  <pb n="7" facs="tcp:000225_0006_0FA36B5AABC3EF08"/>
+                  <pb n="7" facs="unknown:000225_0006_0FA36B5AABC3EF08"/>
 Although men far'd and lodged very hard</l>
                <l>Yet Innocence was better than a Guard.</l>
                <l>T was long before spiders &amp; wormes had drawn</l>
@@ -220,7 +220,7 @@ Although men far'd and lodged very hard</l>
                <l>Then had the Churches rest, as yet the coales</l>
                <l>Were covered up in most contentious souls.</l>
                <l>
-                  <pb n="8" facs="tcp:000225_0007_0FA36B5B55E3FD18"/>
+                  <pb n="8" facs="unknown:000225_0007_0FA36B5B55E3FD18"/>
 Freeness in Judgment, union in affection,</l>
                <l>Dear love, sound truth they were our grand protecti<g ref="char:EOLhyphen"/>on</l>
                <l>These were the twins which in our Councells sate,</l>
@@ -250,7 +250,7 @@ Freeness in Judgment, union in affection,</l>
                <l>Thus the proud Ship after a little turn</l>
                <l>Sinks into <hi>Neptunes</hi> arms to find its Urn.</l>
                <l>
-                  <pb facs="tcp:000225_0008_0FA36B5C42893350"/>
+                  <pb facs="unknown:000225_0008_0FA36B5C42893350"/>
 Thus hath the heir to many thousands born</l>
                <l>Been in an instant from the mother torn.</l>
                <l>Ev'n thus thine infant cheeks begin to pale,</l>
@@ -260,7 +260,7 @@ Thus hath the heir to many thousands born</l>
                <l>The <hi>Epilogue</hi> no mortal yet can know.</l>
             </div>
             <div type="poem">
-               <pb n="10" facs="tcp:000225_0009_0FA36B5D63297AE8"/>
+               <pb n="10" facs="unknown:000225_0009_0FA36B5D63297AE8"/>
                <head>New Englands Crisis.</head>
                <lg>
                   <l>IN seventy five the <hi>Critick</hi> of our years</l>
@@ -285,7 +285,7 @@ Thus hath the heir to many thousands born</l>
                   <l>Thus treat his peers, &amp; next to them his Commons,</l>
                   <l>Kennel'd together all without a summons.</l>
                   <l>
-                     <pb n="11" facs="tcp:000225_0010_0FA36B5E20553CA8"/>
+                     <pb n="11" facs="unknown:000225_0010_0FA36B5E20553CA8"/>
 My friends, our Fathers were not half so wise</l>
                   <l>As we our selves who see with younger eyes.</l>
                   <l>They sel our land to english man who teach</l>
@@ -314,7 +314,7 @@ My friends, our Fathers were not half so wise</l>
                   <l>This was assented to, and for a close</l>
                   <l>He strokt his smutty beard and curst his foes.</l>
                   <l>
-                     <pb n="12" facs="tcp:000225_0011_0FA36B5E4A3772B0"/>
+                     <pb n="12" facs="unknown:000225_0011_0FA36B5E4A3772B0"/>
 This counsel lightning like their tribes invade,</l>
                   <l>And something like a muster's quickly made,</l>
                   <l>A ragged regiment, a naked swarm,</l>
@@ -345,7 +345,7 @@ This counsel lightning like their tribes invade,</l>
                   <l>The beasts which wont their masters crib to know,</l>
                   <l>Over the ashes of their shelters low.</l>
                   <l>
-                     <pb n="13" facs="tcp:000225_0012_0FA36B5F17E4E9B0"/>
+                     <pb n="13" facs="unknown:000225_0012_0FA36B5F17E4E9B0"/>
 What the inexorable flames doe spare</l>
                   <l>More cruel <hi>Heathen</hi> lug away for fare.</l>
                   <l>These tidings ebbing from the outward parts</l>
@@ -375,7 +375,7 @@ What the inexorable flames doe spare</l>
                   <l>The tender Mother now's all bowels grown,</l>
                   <l>Clings to her son as if they'd melt in one.</l>
                   <l>
-                     <pb n="14" facs="tcp:000225_0013_0FA36B5FD2D9F938"/>
+                     <pb n="14" facs="unknown:000225_0013_0FA36B5FD2D9F938"/>
 Wives claspe about their husbands as the vine</l>
                   <l>Huggs the fair elm, while tears burst out like wine.</l>
                   <l>The new-sprung love in many a virgin heart</l>
@@ -405,7 +405,7 @@ Wives claspe about their husbands as the vine</l>
                   <l>The swamps were Courts of Guard, thither retir'd</l>
                   <l>The stragling blew-coats when their guns were fir'd,</l>
                   <l>
-                     <pb n="15" facs="tcp:000225_0014_0FA36B61E9371A08"/>
+                     <pb n="15" facs="unknown:000225_0014_0FA36B61E9371A08"/>
 In dark Meanders, and these winding groves,</l>
                   <l>Where Beares &amp; panthers with their Monarch moves</l>
                   <l>These far more cruel slily hidden lay,</l>
@@ -433,7 +433,7 @@ In dark Meanders, and these winding groves,</l>
                   <l>Their first salute is death, which if they shun</l>
                   <l>Some are condemn'd the Gauntelet to run;</l>
                   <l>
-                     <pb n="16" facs="tcp:000225_0015_0FA36B6310B97A98"/>
+                     <pb n="16" facs="unknown:000225_0015_0FA36B6310B97A98"/>
 Death would a mercy prove to such as those</l>
                   <l>Who feel the rigour of such hellish foes.</l>
                   <l>Posts daily on their <hi>Pegasean</hi> Steeds</l>
@@ -461,7 +461,7 @@ Death would a mercy prove to such as those</l>
                   <l>Their chrystal drink drawn from the mothers breal</l>
                   <l>Disposes not to mirth but sleep and rest.</l>
                   <l>
-                     <pb n="17" facs="tcp:000225_0016_0FA36C853818CB48"/>
+                     <pb n="17" facs="unknown:000225_0016_0FA36C853818CB48"/>
 Thus many dayes and weeks, some months run out</l>
                   <l>To find and quell the vagabonding rout,</l>
                   <l>Who like inchanted Castles fair appear,</l>
@@ -491,7 +491,7 @@ Thus many dayes and weeks, some months run out</l>
                   <l>Fierce <hi>Boreas</hi> whips the <hi>Pagan</hi> tribe together</l>
                   <l>Advising them to fit for foes and weather:</l>
                   <l>
-                     <pb n="017" facs="tcp:000225_0017_0FA36C85C9CB89B0"/>
+                     <pb n="017" facs="unknown:000225_0017_0FA36C85C9CB89B0"/>
 The axe which late had tasted Christian bloud</l>
                   <l>Now sets its steely teeth to feast on wood.</l>
                   <l>The forests suffer now, by waight constrein'd</l>
@@ -521,7 +521,7 @@ The axe which late had tasted Christian bloud</l>
                   <l>A place which nature coyn'd on very nonce</l>
                   <l>For tygers not for men to be a sconce.</l>
                   <l>
-                     <pb n="19" facs="tcp:000225_0018_0FA36C86889D75A8"/>
+                     <pb n="19" facs="unknown:000225_0018_0FA36C86889D75A8"/>
 T was here these Monsters shape and fac'd like men</l>
                   <l>Took up there Rendezvouz and <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -552,7 +552,7 @@ T was here these Monsters shape and fac'd like men</l>
                   <l>Had we been <hi>Canibals</hi> here might we feast</l>
                   <l>On brave <hi>Westphalia</hi> gammons ready drest.</l>
                   <l>
-                     <pb n="20" facs="tcp:000225_0019_0FA36C8748C77B78"/>
+                     <pb n="20" facs="unknown:000225_0019_0FA36C8748C77B78"/>
 The tauny hue is Ethiopick made</l>
                   <l>Of such on whome <hi>Vulcan</hi> his clutches laid.</l>
                   <l>There fate was sudden, our advantage great</l>
@@ -580,7 +580,7 @@ The tauny hue is Ethiopick made</l>
                   <l>Hundreds of cattle now they sacrifice</l>
                   <l>For aiery spirits up to gormandize;</l>
                   <l>
-                     <pb n="21" facs="tcp:000225_0020_0FA36C8807C3AFA8"/>
+                     <pb n="21" facs="unknown:000225_0020_0FA36C8807C3AFA8"/>
 And to the <hi>Molech</hi> of their hellish guts,</l>
                   <l>Which craves the flesh in gross, their ale in butts.</l>
                   <l>
@@ -628,7 +628,7 @@ And to the <hi>Molech</hi> of their hellish guts,</l>
                </lg>
             </div>
             <div type="supplement">
-               <pb facs="tcp:000225_0021_0FA36C88C7A0C628"/>
+               <pb facs="unknown:000225_0021_0FA36C88C7A0C628"/>
                <head>A Supplement.</head>
                <lg>
                   <l>WHat meanes this silence of <hi>Harvardine</hi> quils</l>
@@ -656,7 +656,7 @@ And to the <hi>Molech</hi> of their hellish guts,</l>
                   <l>But our <hi>Gazetts</hi> without <hi>Errataes</hi> must</l>
                   <l>Report the plague of towns reduct to dust:</l>
                   <l>
-                     <pb n="23" facs="tcp:000225_0022_0FA36C8987BEF8A0"/>
+                     <pb n="23" facs="unknown:000225_0022_0FA36C8987BEF8A0"/>
 And feavers formerly to tenants sent</l>
                   <l>Arrest the timbers of the tenement.</l>
                   <l>Ere the late ruines of old <hi>Groton's</hi> cold,</l>
@@ -688,7 +688,7 @@ And feavers formerly to tenants sent</l>
                   <l>Till oppertunity their cautious friend</l>
                   <l>Shall jogge them fiery worship to attend.</l>
                   <l>
-                     <pb n="24" facs="tcp:000225_0023_0FA36C8A4997F2A8"/>
+                     <pb n="24" facs="unknown:000225_0023_0FA36C8A4997F2A8"/>
 Shew them like serpents in an avious path</l>
                   <l>Seeking to sow the fire-brands of their wrath.</l>
                   <l>Most like Aeneas in his cloak of mist,</l>
@@ -717,7 +717,7 @@ Shew them like serpents in an avious path</l>
                   <l>That none may burst his drowfie shackles till</l>
                   <l>The bruitish pagans have obtain'd their will,</l>
                   <l>
-                     <pb n="25" facs="tcp:000225_0024_0FA36C8B07AD8F98"/>
+                     <pb n="25" facs="unknown:000225_0024_0FA36C8B07AD8F98"/>
 And <hi>Vulcan</hi> files them off then <hi>Zeuxis</hi> paint</l>
                   <l>The phrenzy glances of of the sinking saint.</l>
                   <l>Draw there the Pastor for his bible crying,</l>
@@ -746,7 +746,7 @@ And <hi>Vulcan</hi> files them off then <hi>Zeuxis</hi> paint</l>
                   <l>One she bids flee, another stay, a third</l>
                   <l>She bids betake him to his rusty sword,</l>
                   <l>
-                     <pb n="26" facs="tcp:000225_0025_0FA36C8BC92C6F38"/>
+                     <pb n="26" facs="unknown:000225_0025_0FA36C8BC92C6F38"/>
 This to his treasure, th'other to his knees,</l>
                   <l>Some counsels she to fry and some to freeze,</l>
                   <l>These to the garison, those to the road,</l>
@@ -774,7 +774,7 @@ This to his treasure, th'other to his knees,</l>
                   <l>Ther's none this Providence of the Most High</l>
                   <l>Who can survive and write its Elegie:</l>
                   <l>
-                     <pb facs="tcp:000225_0026_0FA36C8C8744FA28"/>
+                     <pb facs="unknown:000225_0026_0FA36C8C8744FA28"/>
 But of a solitary town I write,</l>
                   <l>A place of darkness yet receiving light</l>
                   <l>From pagan hands, a miscellanious nest</l>
@@ -803,7 +803,7 @@ But of a solitary town I write,</l>
                   <l>Her's hosts to handfulls, of a fevv they leav</l>
                   <l>Fewer to tell how many they bereave.</l>
                   <l>
-                     <pb n="28" facs="tcp:000225_0027_0FA36C8D488AE3C0"/>
+                     <pb n="28" facs="unknown:000225_0027_0FA36C8D488AE3C0"/>
 Fool-hardy fortitude it had been sure</l>
                   <l>Fierce storms of shot and arrows to endure</l>
                   <l>Without all hopes of some requital to</l>
@@ -837,7 +837,7 @@ Fool-hardy fortitude it had been sure</l>
                      <hi>Rehoboth</hi> here in common english, Rest</l>
                   <l>They ransack, <hi>Newmans</hi> Relicts to molest.</l>
                   <l>
-                     <pb n="29" facs="tcp:000225_0028_0FA36C8E08D8B988"/>
+                     <pb n="29" facs="unknown:000225_0028_0FA36C8E08D8B988"/>
 Here all the town is made a publick stage</l>
                   <l>Whereon these <hi>Nimrods</hi> act their monstrous rage.</l>
                   <l>All crueltyes which paper stain'd before</l>
@@ -888,7 +888,7 @@ Here all the town is made a publick stage</l>
             </div>
          </div>
          <div type="poem">
-            <pb n="30" facs="tcp:000225_0029_0FA36C8EC73BF1A8"/>
+            <pb n="30" facs="unknown:000225_0029_0FA36C8EC73BF1A8"/>
             <head>ON A FORTIFICATION At Boston begun by Women. Dux Foemina Facti.</head>
             <l>A Grand attempt some Amazonian Dames</l>
             <l>Contrive whereby to glorify their names,</l>
@@ -909,7 +909,7 @@ Here all the town is made a publick stage</l>
             <l>Some dig, some delve, and others hands do feel</l>
             <l>The little waggons weight with single wheel.</l>
             <l>
-               <pb n="31" facs="tcp:000225_0030_0FA36C8FF101CE90"/>
+               <pb n="31" facs="unknown:000225_0030_0FA36C8FF101CE90"/>
 And least some fainting fits the weak surprize,</l>
             <l>They want no sack nor cakes, they are more wise.</l>
             <l>These brave essayes draw forth Male stronger hands</l>
